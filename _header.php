@@ -5,6 +5,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="/css/styles.css">
     <title>HTML5 com CSS3</title>
 </head>
 
@@ -14,18 +15,14 @@
         <h1>HTML5 com CSS3</h1>
     </header>
 
-    <hr>
+ 
 
     <nav>
         <a href="/">INÍCIO</a>
-        &bull;
         <a href="/tables.php">TABELAS</a>
-        &bull;
         <a href="/lists.php">LISTAS</a>
-        &bull;
         <a href="/forms.php">FORMULÁRIOS</a>
     </nav>
 
-    <hr>
 
     <main>
